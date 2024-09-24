@@ -1,5 +1,3 @@
-This repository contains various circuit designs related to electronics and communication engineering.
-
-The repository currently includes:
-- Analog Circuits: Basic amplifiers, filters, oscillators.
-- Digital Circuits: Logic gates, flip-flops, counters.
+This repository contains various circuit designs related to analog electronics.
+This repository includes : 
+Transistor networks, Transistor Amplifiers, OP Amp networks, Oscillator, Filters etc.
