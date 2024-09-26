@@ -4,4 +4,4 @@ Transistor networks, Transistor Amplifiers, OP Amp networks, Oscillator, Filters
 
 completed: 
 1. FullWave Rectifier 
-using 1N4007 diode bridge and L C filtering network. 
+(1N4007 diode bridge, LC filter)
