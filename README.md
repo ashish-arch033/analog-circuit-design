@@ -3,5 +3,5 @@ Transistor networks, Transistor Amplifiers, OP Amp networks, Oscillator, Filters
 
 
 completed: 
-1. FullWave Rectifier 
-(1N4007 diode bridge, LC filter)
+1. 12V Regulated Power Supply
+
